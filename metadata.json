@@ -1,0 +1,6 @@
+{
+  "name": "Haven - Personal Sanctuary & Mindful Stories",
+  "description": "Gentle allegories and mindful reflections spun from daily check-ins to ground your nervous system and cultivate peace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
